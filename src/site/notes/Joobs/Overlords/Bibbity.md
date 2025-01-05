@@ -10,12 +10,16 @@
 >| Created      |     |
 >| ------------ | --- |
 >| Created From |     |
+>
 ># Info
+>
 | Physical Traits   |     |
 | --------------------- | --- |
 | Special Abilities |     |
 | Species               |     |
+>
 >## Overlord Info
+>
 | Department          |     |
 | ------------------- | --- |
 | Years In Department |     |
